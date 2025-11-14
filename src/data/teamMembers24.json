@@ -1,0 +1,130 @@
+[
+  {
+    "name": "Atul",
+    "position": "Overall Coordinator",
+    "image": "/img/team/atul.png",
+    "social": {
+      "email": "atuliraz1305@gmail.com",
+      "linkedin": "https://www.linkedin.com/in/atul-iitd2125/",
+      "instagram": "https://www.instagram.com/at_ul04/"
+    }
+  },
+  {
+    "name": "Shrenik Sakala",
+    "position": "Coordinator",
+    "image": "/img/team/shrenik.jpg",
+    "social": {
+      "email": "shreniksakla007@gmail.com",
+      "linkedin": "https://www.linkedin.com/in/shrenik-sakala-06131b22a/",
+      "instagram": "https://www.instagram.com/shrenik_sakala/"
+    }
+  },
+  {
+    "name": "Vagesh Mahajan",
+    "position": "Coordinator",
+    "image": "/img/team/vagesh.jpg",
+    "social": {
+      "email": "mt1221260@iitd.ac.in",
+      "linkedin": "https://www.linkedin.com/in/vageshmahajan?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+      "instagram": "https://www.instagram.com/vagzzzzz?igsh=YjluenJvc3duc3E2"
+    }
+  },
+  {
+    "name": "Kaneesha Jain",
+    "position": "Coordinator",
+    "image": "/img/team/kaneesha.jpg",
+    "social": {
+      "email": "jainkaneesha@gmail.com",
+      "linkedin": "https://www.linkedin.com/in/kaneesha-jain-47b7b228a/",
+      "instagram": "https://www.instagram.com/_kaneesha.2604/"
+    }
+  },
+  {
+    "name": "Pratyush Sharma",
+    "position": "Coordinator",
+    "image": "/img/team/pratyush.jpg",
+    "social": {
+      "email": "pratyushkbs@gmail.com",
+      "linkedin": "http://www.linkedin.com/in/pratyush-sharma-571951264",
+      "instagram": "https://www.instagram.com/8128pratyush/"
+    }
+  },
+  {
+    "name": "Abhinav Ratan",
+    "position": "Coordinator",
+    "image": "/img/team/abhinav.jpeg",
+    "social": {
+      "email": "mt1221940@iitd.ac.in",
+      "linkedin": "linkedin.com/in/abhinavratan",
+      "instagram": "instagram.com/abhinav_ratan"
+    }
+  },
+  {
+    "name": "Atul Kumar Tripathi",
+    "position": "Coordinator",
+    "image": "/img/team/tripathi.jpg",
+    "social": {
+      "email": "kumartripathiatul689@gmail.com",
+      "linkedin": "https://www.linkedin.com/in/atul-kumar-tripathi-08b30b25a",
+      "instagram": "https://www.instagram.com/akt_0402?igsh=MW9wZjF1ZHE0ZmY2"
+    }
+  },
+  {
+    "name": "Khushi",
+    "position": "Coordinator",
+    "image": "/img/team/khushi.jpg",
+    "social": {
+      "email": "maz198085@maths.iitd.ac.in"
+    }
+  },
+  {
+    "name": "Maalav Mehta",
+    "position": "Convenor",
+    "image": "/img/team/maalav.jpg",
+    "social": {
+      "email": "maalav.iitd.math@gmail.com",
+      "linkedin": "https://www.linkedin.com/in/maalavmehta",
+      "instagram": "https://www.instagram.com/maalav._3"
+    }
+  },
+  {
+    "name": "Chitesh Marmat",
+    "position": "Executive",
+    "image": "/img/team/chitesh.jpg"
+  },
+  {
+    "name": "Siddharth Singh",
+    "position": "Executive",
+    "image": "/img/team/siddharth.jpg"
+  },
+  {
+    "name": "Ridhi Aggarwal",
+    "position": "Executive",
+    "image": "/img/team/ridhiA.jpg"
+  },
+  {
+    "name": "Ridhi Maheshwari",
+    "position": "Executive",
+    "image": "/img/team/ridhi.jpg"
+  },
+  {
+    "name": "Arnav Kumar",
+    "position": "Executive",
+    "image": "/img/team/arnav.png"
+  },
+  {
+    "name": "Sparsh Jain",
+    "position": "Executive",
+    "image": "/img/team/sparsh.jpg"
+  },
+  {
+    "name": "Ryan Azim Shaikh",
+    "position": "Executive",
+    "image": "/img/team/ryan.jpg"
+  },
+  {
+    "name": "Rupanshi Goel",
+    "position": "Executive",
+    "image": "/img/team/rupanshi.jpg"
+  }
+]

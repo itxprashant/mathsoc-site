@@ -1,6 +1,79 @@
-# Getting Started with Create React App
+# MathSoc IITD - React Version
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a React.js conversion of the original HTML/CSS/JS Mathematics Society IIT Delhi website.
+
+## Features
+
+- **Identical Design**: Pixel-perfect conversion of the original site
+- **React Router**: Client-side routing for seamless navigation
+- **Dark Mode**: Toggle between light and dark themes with localStorage persistence
+- **Responsive Design**: Mobile-friendly layout using Bootstrap
+- **TypeScript**: Type-safe development
+- **RSS Feed Integration**: Fetches latest blog posts from the official blog
+- **Contact Form**: Working contact form with Formspree integration
+
+## Pages
+
+- **Home**: Main landing page with featured content, blog posts, and professor talks
+- **About**: Information about the Mathematics Society
+- **Events**: Timeline of upcoming and past events
+- **Team**: Team members with their roles and social links
+- **Contact**: Contact information and contact form
+
+## Technology Stack
+
+- React 18 with TypeScript
+- React Router DOM for routing
+- Bootstrap 4 for styling
+- Font Awesome for icons
+- CSS3 with custom styling
+- Formspree for form handling
+
+## Installation
+
+1. Clone the repository
+2. Install dependencies:
+   ```bash
+   npm install
+   ```
+3. Start the development server:
+   ```bash
+   npm start
+   ```
+4. Open [http://localhost:3000](http://localhost:3000) to view it in the browser
+
+## Build for Production
+
+```bash
+npm run build
+```
+
+This builds the app for production to the `build` folder.
+
+## Assets
+
+All images, logos, and other assets are stored in the `public` folder and are identical to the original site.
+
+## Dark Mode
+
+The site supports dark mode which can be toggled using:
+- Footer toggle link
+- Switch component on the home page
+
+The theme preference is saved to localStorage and persists across sessions.
+
+## Original vs React
+
+This React version maintains identical functionality to the original HTML/CSS/JS version while providing:
+- Better code organization with component-based architecture
+- Type safety with TypeScript
+- Modern development tooling
+- Improved maintainability
+- State management with React hooks
+
+## Copyright
+
+Copyright © 2025 Mathematics Society, IIT Delhi
 
 ## Available Scripts
 
